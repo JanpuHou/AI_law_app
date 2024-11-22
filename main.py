@@ -13,7 +13,7 @@ def parse_groq_stream(stream):
 
 # streamlit page configuration
 st.set_page_config(
-    page_title="The 70's Painter",
+    page_title="The AI law assistant",
     page_icon="🎨",
     layout="centered",
 )
