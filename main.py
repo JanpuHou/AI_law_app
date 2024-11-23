@@ -57,7 +57,7 @@ for message in st.session_state.chat_history:
 
 
 # user input field
-user_prompt = st.chat_input("Ask me")
+user_prompt = st.chat_input("請提問")
 
 if user_prompt:
     # st.chat_message("user").markdown
